@@ -1,0 +1,6 @@
+#inculde<stdio.h>
+#include<conio.h>
+main
+{
+void getch();
+}
